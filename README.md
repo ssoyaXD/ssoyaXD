@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <h4 align="center">Backend Tech</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </div>
@@ -37,6 +38,8 @@ Here are some ideas to get you started:
 <h4 align="center">Database</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-FFDD00?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
 </div>
 
 <h4 align="center">Design Tools</h4>
