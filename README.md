@@ -1,4 +1,4 @@
-<h2 align="center">🚀 My Active Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
